@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Galang Davian Pradana](https://github.com/Galangdp)
+- Place: Jakarta, Indonesia
+- Bio: IOS & Android Developer
+- GitHub: [Galangdp](https://github.com/Galangdp)
