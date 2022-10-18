@@ -2432,3 +2432,8 @@ Noida
 - Place: Jakarta, Indonesia
 - Bio: IOS & Android Developer
 - GitHub: [Galangdp](https://github.com/Galangdp)
+
+#### Name: [Viandevv]((https://github.com/Viandevv)
+- Place: Jakarta, Indonesia
+- Bio: IOS & Android Developer
+- GitHub: [Viandevv](https://github.com/Viandevv)
